@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">TBC_Course_17</string>
+    <string name="mainfragment">MainFragment</string>
 </resources>
